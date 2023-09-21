@@ -1,13 +1,12 @@
 @echo off
 
 rem asks the user what type of RPGM it is.
-echo Please select the type of RPGM:
 echo 1. RPG Maker MV
 echo 2. RPG Maker VX Ace
 echo 3. RPG Maker VX
 echo 4. RPG Maker XP
 
-set /p type=
+set /p type=Please select the type of RPGM: 
 
 rem Check the types of RPGM
 if "%type%" == "1" (
