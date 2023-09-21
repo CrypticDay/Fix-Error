@@ -11,7 +11,8 @@
 
 **3.Select RPGM type**
 
-![Screenshot 2023-09-21 221041](https://github.com/CrypticDay/Fix-Error/assets/121768693/2ccb1ae0-54c1-4b01-9555-a10c3d138cec)
+![Screenshot 2023-09-21 222653](https://github.com/CrypticDay/Fix-Error/assets/121768693/bdcceceb-0fb2-41a2-8146-5d7e5128a56d)
+
 
 **4.Install**
 
